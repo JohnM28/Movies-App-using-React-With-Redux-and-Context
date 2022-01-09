@@ -1,0 +1,13 @@
+.navbar{
+  box-shadow: 0 4px 10px rgba(0,0,0,.1);
+  background-color: #262323;
+}
+
+#footer{
+  box-shadow: 0 4px 10px rgba(0,0,0,.1);
+  background-color: #262323;
+  /*position: fixed;*/
+  /*left:0;*/
+  /*bottom:0;*/
+  /*right:0;*/
+}

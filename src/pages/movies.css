@@ -1,0 +1,47 @@
+#poster {
+    width : 50%;
+}
+#Movies {
+    width : 250%;
+}
+.image-container {
+    position: relative;
+}
+
+.numberCircle {
+    width: 39.6px;
+    height: 39.6px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 21.6px;
+    border: 2px solid #3498db;
+    color: white;
+    background: #3498db;
+    position: absolute;
+    margin: auto;
+    top: -20px;
+    right: 0;
+    left: 0;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+.heart {
+    position: absolute;
+    margin-top: 2px;
+    width: 27px;
+    height: 22px;
+}
+
+.heart-over {
+    position: relative;
+    font-size: 1rem;
+}
