@@ -1,3 +1,11 @@
+React Movies app with router, redux, and context api.
+
+![Screenshot 2022-01-30 at 13-09-52 TEST](https://user-images.githubusercontent.com/51532708/151697338-96541d05-14f8-4739-88a8-c6e55c6cae78.png)
+
+![Screenshot 2022-01-30 at 13-10-06 TEST](https://user-images.githubusercontent.com/51532708/151697335-6fb09c66-9a93-4633-8162-04d21790f9d5.png)
+
+![Screenshot 2022-01-30 at 13-11-15 TEST](https://user-images.githubusercontent.com/51532708/151697328-b1e2ca90-f1c2-423b-b22c-4def5b6e6f8a.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
