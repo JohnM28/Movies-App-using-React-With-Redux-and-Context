@@ -1,4 +1,4 @@
-import {useContext, useEffect, useState} from "react";
+import React, {useContext, useEffect, useState} from "react";
 import { axiosInstance } from "../network";
 import './movies.css'
 import { useDispatch, useSelector } from 'react-redux';
@@ -17,7 +17,7 @@ const Movies = () => {
       })
       .then((res) => setMovieList(res.data.results))
       .catch((err) => console.log(err));
-  }, []);
+  }, [contextLang]);
 
   const [movieList, setMovieList] = useState([]);
   const { movies } = useSelector((state) => state.movies);

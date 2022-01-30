@@ -8,7 +8,8 @@ export default function ChangeLanguage() {
     <div>
       <button
         className="btn btn-dark"
-        onClick={() => setContextLang(contextLang === "ar" ? "de" : "ar")}
+        onClick={() => {setContextLang(contextLang === "en" ? "ar" : "en");
+        this.forceUpdate();}}
       >
         {contextLang}
       </button>
